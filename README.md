@@ -1,6 +1,7 @@
 <h1 class="title">🖥️ Olá, é um prazer ter você aqui no meu perfil! 🖥️</h1>
 <br>
 <div class="content">
+  Atualmente:
   <ul>
     <li>🔥 Estagiando na SISPRO - Software Empresarial e estudando em um Técnico de Sistemas para Internet da Faculdade QI;</li>
     <li>🟠 Atualmente utilizo a plataforma low-code OutSystems no estágio onde trabalho;</li>
