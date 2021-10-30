@@ -3,7 +3,7 @@
 <br>
 <div>
   <ul>
-    <li style="font-size: 18px;">🔥 Estagiando na SISPRO - Software Empresarial</li>
+    <li style="color: red;">🔥 Estagiando na SISPRO - Software Empresarial</li>
     <li style="font-size: 14px;">💠 Estou trabalhando em pequenos projetos web com Angular para agregar conhecimento ao meu portifólio e para meu proprio uso</li>
     <li style="font-size: 14px;">🟠 Atualmente utilizo a plataforma low-code OutSystems no estágio onde trabalho</li>
     <li style="font-size: 14px;">💻 Adicionalmente, estou aprendendo bastante sobre SQL</li>
