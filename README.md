@@ -1,5 +1,4 @@
 <h1>🖥️ Olá, é um prazer ter você aqui no meu perfil! 🖥️</h1>
-<hr>
 <br>
 <div>
   <ul>
