@@ -10,7 +10,6 @@
   </ul>
   
   <p>   Pretendo melhorar meus conhecimentos em Angular, tanto para uso pessoal quanto para contribuir com minha empresa, pretendo também voltar os estudos com C# e .NET</p>
-  <p>   Meus objetivos futuros são terminar o curso, me formar em pelo menos duas faculdades e o principal sendo desenvolver jogos</p>
   <br>
   <p>         Por enquanto acredito ser isso, espero que goste do meu perfil e dos meus projetos, ainda sou iniciante mas pretendo melhorar muito ao longo do tempo, além de cada dia eu estar aprendendo algo novo sobre uma área nova!</p>
 </div>
