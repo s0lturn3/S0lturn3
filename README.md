@@ -1,11 +1,11 @@
-### Hi there, name's Erick. 👋 ###
+### Olá, é um prazer ter você aqui no meu perfil! 👋 ###
 
 
-- 🔥 Right now i'm using Outsystems, Angular and JasperSoft in my current internship
+- 🔥 Estagiando na SISPRO - Software Empresarial
 
-- 💻 I’m currently learning Angular and SQL!
+- 💠 Estou trabalhando em pequenos projetos web com Angular para agregar conhecimento ao meu portifólio e para meu proprio uso.
 
-- 🆘 I’m looking for help with JavaScript (i'm still not very familiar with the language)
+- 🟠 Atualmente utilizo a plataforma low-code OutSystems no estágio onde trabalho
 
-- 💬 Ask me about anything (but mostly games :p)
+- 💻 Adicionalmente, estou aprendendo bastante sobre SQL!
 
