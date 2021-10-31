@@ -8,7 +8,7 @@
     <li>🔥 Estagiando na SISPRO - Software Empresarial e estudando em um Técnico de Sistemas para Internet da Faculdade QI;</li>
     <li>🟠 Utilizo a plataforma low-code OutSystems no estágio onde trabalho;</li>
     <li>💻 Estou aprendendo bastante sobre SQL;</li>
-    <li>✍️ No meu tempo livre gosto de desenhar meus personagens também, caso tenha interesse em vê-los só acessar meu DeviantArt: https://www.deviantart.com/zeem00</li>
+    <li>✍️ No meu tempo livre gosto de desenhar meus personagens, caso tenha interesse posto quase todos meus desenhos no DeviantArt: https://www.deviantart.com/zeem00</li>
   </ul>
   <br>
   <p>Por enquanto acredito ser isso, espero que goste do meu perfil e dos meus projetos, ainda sou iniciante mas pretendo melhorar muito ao longo do tempo, além de cada dia eu estar aprendendo algo novo sobre uma área nova!</p>
