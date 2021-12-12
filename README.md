@@ -1,6 +1,6 @@
 <h1 class="title">🖥️ Olá, é um prazer ter você aqui no meu perfil! 🖥️</h1>
-<br>
 <h2>Desenvolvedor Web iniciante</h2>
+<br>
 <div class="content">
   <ul>
     <li>🖥️  Estagiando na SISPRO - Software Empresarial e estudando em um curso Técnico de Sistemas para Internet da Faculdade QI;</li>
