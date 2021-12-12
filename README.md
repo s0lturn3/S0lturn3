@@ -2,7 +2,6 @@
 <br>
 <h2>Desenvolvedor Web iniciante</h2>
 <div class="content">
-  Atualmente:
   <ul>
     <li>🖥️  Estagiando na SISPRO - Software Empresarial e estudando em um curso Técnico de Sistemas para Internet da Faculdade QI;</li>
     <li>🅰️  Estou aprendendo e utilizando Angular e .NET neste mesmo estágio;</li>
