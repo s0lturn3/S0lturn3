@@ -1,6 +1,6 @@
 <h1 class="title">🖥️ Olá, é um prazer ter você aqui no meu perfil! 🖥️</h1>
 <br>
-<p>Acredito que algo interessante a se dizer é que completei o primeiro semestre de um curso de Jogos Digitais em 2020 na instituição FADERGS, porém, devido à pandemia trazer problemas financeiros tive de trancar o curso, mas pretendo finalizá-lo em um futuro próximo, assim como iniciar outros cursos e experiências ao longo do caminho</p>
+<h2>Desenvolvedor Web iniciante</h2>
 <div class="content">
   Atualmente:
   <ul>
