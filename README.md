@@ -1,5 +1,4 @@
-<h1 class="title">🖥️ Olá, é um prazer ter você aqui no meu perfil! 🖥️</h1>
-<h2>Desenvolvedor Web iniciante</h2>
+<h1 class="title">🖥️ Olá! Sou Desenvolvedor Web iniciante 🖥️</h1>
 <br>
 <div class="content">
   <ul>
