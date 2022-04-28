@@ -9,7 +9,7 @@
 </ul>
 <hr>
 
-<p>Tecnologias que utilizo:</p>
+<p>Tecnologias que utilizo frequentemente:</p>
   <ul>
     <li>Vanilla Web (HTML, CSS, Javascript);</li>
     <li>Framework Angular;</li>
@@ -19,10 +19,11 @@
   </ul>
 <br>
 
-<p>Tecnologias que utilizo:</p>
+<p>Tecnologias que tenho conhecimento mais básico:</p>
   <ul>
     <li>C# .NET;</li>
     <li>Figma;</li>
+    <li>PHP;</li>
   </ul>
   <br>
   
