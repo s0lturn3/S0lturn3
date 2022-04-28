@@ -7,11 +7,22 @@
   <br>
   <li>✍️  No meu tempo livre gosto de desenhar meus personagens, caso tenha interesse posto quase todos meus desenhos aqui: https://www.deviantart.com/zeem00</li>
 </ul>
+<hr>
+
+<p>Tecnologias que utilizo:</p>
+  <ul>
+    <li>Vanilla Web (HTML, CSS, Javascript);</li>
+    <li>Framework Angular;</li>
+    <li>Microsoft SQL Server;</li>
+    <li>Ferramentas de versionamento (Git e SVN);</li>
+    <li>APIs RESTful;</li>
+  </ul>
 <br>
 
 <p>Tecnologias que utilizo:</p>
-  - Vanilla Web (HTML, CSS, Javascript);
-  - Framework Angular;
-  - Microsoft SQL Server;
-  - Ferramentas de versionamento (Git e SVN);
-  - APIs RESTful;
+  <ul>
+    <li>C# .NET;</li>
+    <li>Figma;</li>
+  </ul>
+  <br>
+  
