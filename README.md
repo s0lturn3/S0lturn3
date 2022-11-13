@@ -1,29 +1,18 @@
-<h1 class="title">🖥️ Olá! Sou um Desenvolvedor Web Júnior 🖥️</h1>
+<h1>🖥️ Desenvolvedor Full-stack Júnior 🖥️</h1>
 <br>
 <ul>
-  <li>🖥️ Programador Júnior na SISPRO - Software Empresarial;</li>
-  <br>
-  <li>📓  Matriculado em Técnico de Sistemas para Internet da instituição QI, previsão de conclusão em 2023;</li>
-  <br>
+  <li>🖥️ Desenvolvedor Júnior na SISPRO - Software Empresarial</li>
+  <li>📓  Cursando Técnico em Sistemas para Internet na instituição QI com previsão de conclusão em Março/2023</li>
   <li>✍️  No meu tempo livre gosto de desenhar meus personagens, caso tenha interesse posto quase todos meus desenhos aqui: https://www.deviantart.com/zeem00</li>
 </ul>
 <hr>
 
-<p>Tecnologias que utilizo frequentemente:</p>
+<p>Tecnologias e linguagens que trabalho diariamente:</p>
   <ul>
-    <li>Vanilla Web (HTML, CSS, Javascript);</li>
-    <li>Framework Angular;</li>
-    <li>Microsoft SQL Server;</li>
-    <li>Ferramentas de versionamento (Git e SVN);</li>
-    <li>APIs RESTful;</li>
+    <li> <b>Front-end/Client-side:</b> HTML | CSS | Javascript | Typescript </li>
+    <li> <b>Back-end/Server-side:</b> C#.NET | SQL | Criação e consumo de REST APIs | PHP (básico) </li>
+    <li> <b>Bibliotecas e Frameworks:</b> Bootstrap | Angular 10+ | React (iniciando) </li>
+    <li> <b>Versionamento:</b> Git | TortoiseSVN </li>
+    <li> <b>Ferramentas:</b> Figma </li>
   </ul>
 <br>
-
-<p>Tecnologias que tenho conhecimento mais básico:</p>
-  <ul>
-    <li>C# .NET;</li>
-    <li>Figma;</li>
-    <li>PHP;</li>
-  </ul>
-  <br>
-  
