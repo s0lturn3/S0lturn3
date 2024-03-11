@@ -3,7 +3,6 @@
 <ul>
   <li>🖥️ Desenvolvedor Júnior na SISPRO - Software Empresarial</li>
   <li>📓  Cursei Técnico em Sistemas para Internet na instituição QI. Concluído em Março/2023</li>
-  <li>✍️  No meu tempo livre gosto de desenhar meus personagens, caso tenha interesse posto quase todos meus desenhos aqui: https://www.deviantart.com/zeem00</li>
 </ul>
 
 <hr>
