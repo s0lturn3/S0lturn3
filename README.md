@@ -12,6 +12,6 @@
     <li> <b>Back-end/Server-side:</b> C#.NET | SQL | REST APIs </li>
     <li> <b>Bibliotecas e Frameworks:</b> Bootstrap | Angular 10+ </li>
     <li> <b>Versionamento:</b> Git | TortoiseSVN </li>
-    <li> <b>Ferramentas:</b> Figma | PowerBI </li>
+    <li> <b>Ferramentas:</b> Figma | PowerBI | Azure </li>
   </ul>
 <br>
