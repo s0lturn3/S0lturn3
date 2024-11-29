@@ -8,6 +8,9 @@
 </ul>
 
 <p align="end">
+  <a href="https://solturne.vercel.app"><img src="https://img.shields.io/badge/website-ff1463?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://dev.to/s0lturn3"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+  <a href="https://medium.com/@S0lturn3"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/erick-carvalho-40a7471ba/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.upwork.com/freelancers/~01461935f19114c1bf"><img src="https://img.shields.io/badge/UpWork-green?style=for-the-badge&logo=upwork&logoColor=white"></a>
   <a href="mailto:erickcarvalho.contato20@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -39,3 +42,6 @@
   <span> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0lturn3&layout=compact&theme=radical" alt="Most Used Languages"> </span>
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=S0lturn3&point=ff1463&color=a9fef7&bg_color=141321&title_color=f34089&radius=8&custom_title=Contributions&area=true&area_color=431c36&line=431c36">
+
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S0lturn3">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=S0lturn3"> -->
