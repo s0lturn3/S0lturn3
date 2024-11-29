@@ -27,7 +27,10 @@
 
 <h2 id="projects">🚀 Projects</h2>
 <ul>
-  <li><a href="https://solturne.vercel.app">Personal Website & Contact Hub</a> - A central hub showcasing my work and providing ways to contact me.</li>
+  <li>
+    <a href="https://solturne.vercel.app">Personal Website & Contact Hub</a> - A central hub showcasing my work and providing ways to contact me.
+    <img src="https://private-user-images.githubusercontent.com/61489692/391196798-ad01eb0a-2aaa-4250-b766-04da63637ff3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI5MjE1NTUsIm5iZiI6MTczMjkyMTI1NSwicGF0aCI6Ii82MTQ4OTY5Mi8zOTExOTY3OTgtYWQwMWViMGEtMmFhYS00MjUwLWI3NjYtMDRkYTYzNjM3ZmYzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTI5VDIzMDA1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2ZjllYjBlZGE5NzIwMjExYjQzMWIzMzRlNTNkMWJhYTExOTg2OGE5YjdhZmNiNTc0Njc5YTQ0ZTZhZDVkNjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8uOWnDkBu0lgxKc30OstQugwCw1M2g1dSsxaGys2V8c">
+  </li>
 </ul>
 <br>
 
