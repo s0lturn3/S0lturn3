@@ -12,7 +12,6 @@
   <a href="https://www.upwork.com/freelancers/~01461935f19114c1bf"><img src="https://img.shields.io/badge/UpWork-green?style=for-the-badge&logo=upwork&logoColor=white"></a>
   <a href="mailto:erickcarvalho.contato20@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-<br>
 
 <h2 id="skills">🛠️ Skills</h2>
 <ul>
