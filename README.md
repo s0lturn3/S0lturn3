@@ -33,9 +33,10 @@
 </ul>
 <br>
 
-<p align="end">
-  <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0lturn3&layout=compact&theme=radical" alt="Most Used Languages"> </p>
-  <p> <img src="https://github-readme-stats.vercel.app/api?username=S0lturn3&show_icons=true&theme=radical" alt="GitHub Stats"> </p>
+<p align="start">
+  <span> <img src="https://github-readme-stats.vercel.app/api?username=S0lturn3&show_icons=true&theme=radical" alt="GitHub Stats"> </span>
+  &nbsp;&nbsp;
+  <span> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0lturn3&layout=compact&theme=radical" alt="Most Used Languages"> </span>
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=S0lturn3&point=ff1463&color=a9fef7&bg_color=141321&title_color=f34089&radius=8&custom_title=Contributions&area=true&area_color=431c36&line=431c36)](https://github.com/ashutosh00710/github-readme-activity-graph)
