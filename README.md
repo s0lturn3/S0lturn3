@@ -19,7 +19,7 @@
 <h2 id="skills">🛠️ Skills</h2>
 <ul>
   <li> <b>Front-end/Client-side:</b> HTML | CSS | SCSS | JavaScript | TypeScript </li>
-  <li> <b>Back-end/Server-side:</b> C# | .NET Framework | SQL | REST APIs </li>
+  <li> <b>Back-end/Server-side:</b> C# | Node.js | SQL | REST APIs </li>
   <li> <b>Libraries and Frameworks:</b> Bootstrap | Angular </li>
   <li> <b>Version Control:</b> Git | TortoiseSVN </li>
   <li> <b>CI/CD:</b> Jasmine & Karma | Cypress | GitHub Actions </li>
