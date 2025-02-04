@@ -8,7 +8,7 @@
 </ul>
 
 <p align="end">
-  <a href="https://solturne.vercel.app"><img src="https://img.shields.io/badge/website-ff1463?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://solturne.dev"><img src="https://img.shields.io/badge/website-ff1463?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://dev.to/s0lturn3"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
   <a href="https://medium.com/@S0lturn3"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/erick-carvalho-40a7471ba/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
