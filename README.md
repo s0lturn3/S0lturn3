@@ -27,7 +27,7 @@
 </ul>
 <br>
 
-<h2 id="projects">🚀 Projects</h2>
+<h2 id="projects">🚀 Personal Projects</h2>
 <ul>
   <li>
     <a href="https://solturne.vercel.app">Personal Website & Contact Hub</a> - A central hub showcasing my work and providing ways to contact me.
@@ -35,12 +35,11 @@
 </ul>
 <br>
 
-<p align="start">
+<!-- <p align="start">
   <span> <img src="https://github-readme-stats.vercel.app/api?username=S0lturn3&show_icons=true&theme=radical" alt="GitHub Stats"> </span>
   &nbsp;&nbsp;
   <span> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0lturn3&layout=compact&theme=radical" alt="Most Used Languages"> </span>
-</p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=S0lturn3&point=ff1463&color=a9fef7&bg_color=141321&title_color=f34089&radius=8&custom_title=Contributions&area=true&area_color=431c36&line=431c36">
+</p> -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S0lturn3">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=S0lturn3&point=ff1463&color=a9fef7&bg_color=141321&title_color=f34089&radius=8&custom_title=Contributions&area=true&area_color=431c36&line=431c36">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=S0lturn3">
