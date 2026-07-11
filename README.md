@@ -1,6 +1,6 @@
 <h1>👋 Welcome! I'm Solturne</h1>
 <ul>
-  <li>🖥️ Software developer with over 3 years of experience in Angular and C#.NET Framework</li>
+  <li>🖥️ Software developer with over 4 years of experience in Angular and C#.NET Framework</li>
   <li>🔧 Experienced in creating reusable components, maintaining and publishing internal npm packages</li>
   <li>📘 Contributed to one of the company’s largest projects, which became a cornerstone tool for other initiatives (2021-2023)</li>
   <li>⚙️ Currently implementing unit and e2e tests using Jasmine & Cypress for front-end validation and GitHub Actions for CI/CD pipelines to automate build and deployment processes.</li>
